@@ -7,7 +7,7 @@ Tags:
 ---
 
 
-# 🚀 _Day 6. Min Chars to Add for Palindrome_ 🧠
+# 🚀 _Day 19. Min Chars to Add for Palindrome_ 🧠
 
 The problem can be found at the following link: [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/minimum-characters-to-be-added-at-front-to-make-string-palindrome)  
 
